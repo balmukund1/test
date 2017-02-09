@@ -9,10 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println("\"ssl certificate\" authority key");
-        String search =  "\"" + "\\" + "\"" + "bangalore" + "\\" + "\"" + " btm";
-        System.out.println( "City :" + search );
-        System.out.println( "State :");
+        System.out.println( "I am main method");
         
     }
 }
